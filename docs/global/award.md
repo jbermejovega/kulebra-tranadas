@@ -61,6 +61,16 @@ if personal preferences change.
 
 ## Historical Winners
 
+### 2025
+
+* [Anwesha Das](https://www.linkedin.com/in/anwesha-das-1247121a2/)
+* [Katie McLaughlin](https://www.linkedin.com/in/glasnt/)
+* [Karolina Surma](https://www.linkedin.com/in/karolina-surma-950452b7/)
+* [Cecília Tivir](https://www.linkedin.com/in/ctivir/)
+
+Check out the [blog post](https://pyladies.com/blog/Celebrating-the-Recipients-of-the-Outstanding-PyLady-Awards-2025/outstanding-pylady-winners/)
+that celebrates our 2025 winners!
+
 ### 2024
 
 * [Abigail Mesrenyame Dogbe](https://www.linkedin.com/in/abigail-mesrenyame-dogbe)
